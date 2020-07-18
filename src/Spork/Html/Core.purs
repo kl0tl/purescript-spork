@@ -1,5 +1,6 @@
 module Spork.Html.Core
-  ( Html
+  ( Html (..)
+  , HtmlV
   , ElementRef
   , IProp (..)
   , text
